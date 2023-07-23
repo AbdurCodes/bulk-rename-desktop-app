@@ -1,9 +1,10 @@
 const fs = require('fs');
 const path = require('path');
+const folder = __dirname;
+
 const replaceThis = "Infinity";
 const replaceWith = "Nothing-ness";
 const preview = false;
-const folder = __dirname;
 
 try {
     fs.readdir(folder, (err, files)=>{
