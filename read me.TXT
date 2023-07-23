@@ -1,0 +1,1 @@
+Move the 4 files to the folder which contains files or directories that you want to bulk rename and double click the 'rename.cmd' file.
