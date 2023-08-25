@@ -1,2 +1,4 @@
 # bulk-rename-desktop-app
- A small nodejs desktop app that do bulk renames
+A small node.js desktop app that do bulk renames
+<br>
+Any suggestions or feedback is welcome.
